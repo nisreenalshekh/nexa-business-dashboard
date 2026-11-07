@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="SG product image">
+  <rect width="96" height="96" rx="16" fill="#E0563B20"/>
+  <rect x="20" y="20" width="56" height="56" rx="12" fill="#E0563B" opacity=".16"/>
+  <path d="M31 62h34M36 57V39h24v18M42 39v-5h12v5" fill="none" stroke="#E0563B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="48" y="72" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#E0563B">SG</text>
+</svg>
