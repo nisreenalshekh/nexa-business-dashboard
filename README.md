@@ -4,6 +4,10 @@ A complete, frontend-only Business Management Dashboard built with **HTML5, CSS3
 
 > This is a **frontend-only portfolio project**. There is no backend, database, or API — all data is mock data generated in JavaScript and stored in the browser's `localStorage`.
 
+## Live Demo
+
+**[https://nisreenalshekh.github.io/nexa-business-dashboard/](https://nisreenalshekh.github.io/nexa-business-dashboard/)**
+
 ## Features
 
 - **Dashboard** — revenue, sales, customer and product KPIs, monthly sales chart, sales-by-category chart, recent orders, top products, and a performance summary.
